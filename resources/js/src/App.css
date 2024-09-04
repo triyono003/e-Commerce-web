@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/** FORM LOGIN **/
+@layer utilities {
+  body {
+    @apply bg-green-50
+  }
+}
